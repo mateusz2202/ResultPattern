@@ -1,9 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <PackageProjectUrl>https://github.com/mateusz2202/ResultPattern</PackageProjectUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>ResultPattern</PackageId>
+    <Version>1.0.6</Version>
+    <Authors>MJ</Authors>
+    <Company>Mat</Company>
   </PropertyGroup>
 
 </Project>
