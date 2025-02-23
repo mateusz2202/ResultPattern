@@ -13,3 +13,7 @@ public interface IMessageResult<out T> : IMessageResult
 {
     T Data { get; }
 }
+public interface IMessagePaginationResult<T> : IMessageResult
+{
+    List<T> Data { get; }
+}
