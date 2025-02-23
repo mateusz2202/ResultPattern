@@ -8,7 +8,7 @@
 
   <PropertyGroup>
     <PackageId>MatResultPattern</PackageId>
-    <Version>1.0.8</Version>
+    <Version>1.0.9</Version>
     <Authors>MJ</Authors>
     <Company>Mat</Company>
   </PropertyGroup>
